@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neecievaew.wybierz-prezent.pl/sitemap.xml
